@@ -8,4 +8,4 @@
 
 🏈 In my free time, I enjoy working on a [College Football Project](https://github.com/wjurden/college-football-project) (Huge fan of THE Ohio State University)
 
-⛷ In my free time I enjoy all things active and outdoors - skiing, hiking, camping, fitness, etc.
+⛷ When I am not solving problems with data, I enjoy all things active and outdoors - skiing, hiking, camping, fitness, etc.
