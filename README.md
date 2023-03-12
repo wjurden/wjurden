@@ -1,4 +1,4 @@
-### Hi there, I am Wes Jurden 👋
+### Hi There, I Am Wes Jurden 👋
 
 📍 I'm currently residing in Portland, Oregon
 
@@ -6,5 +6,5 @@
 
 🎓 I'm currently a student at Oklahoma State University | M.S Business Analytics & Data Science
 
-🏈 In my free time, I am working on a [College Football Project](https://github.com/wjurden/college-football-project)
+🏈 In my free time, I am working on a [College Football Project](https://github.com/wjurden/college-football-project) (Huge fan of THE Ohio State University)
 
