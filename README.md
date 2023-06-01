@@ -1,4 +1,4 @@
-### Hi There, I Am Wes Jurden 👋
+### Hi there, I am Wes Jurden 👋
 
 📍 I live in the PNW and call Portland, Oregon my homebase
 
