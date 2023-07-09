@@ -2,7 +2,7 @@
 
 📍 I live in the PNW and call Portland, Oregon my homebase
 
-👟 I work for Nike, Inc. as a Consumer Insights Analyst supporting the Jordan Brand
+👟 I work for Nike, Inc. as a Senior Insights & Analytics Manger supporting the Jordan Brand
 
 🎓 I'm currently a student at Oklahoma State University | M.S Business Analytics & Data Science
 
