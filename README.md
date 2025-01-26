@@ -4,7 +4,7 @@
 
 👟 I work for Nike, Inc. as a Senior Insights & Analytics Manger supporting the Jordan Brand
 
-🎓 I'm currently a student at Oklahoma State University | M.S Business Analytics & Data Science
+🎓 Graduate of #2 ranked Data Science program in the nation 2025 (Fortune) | M.S Business Analytics & Data Science at Oklahoma State University 
 
 🏈 In my free time, I enjoy working on a [College Football Project](https://github.com/wjurden/college-football-project) (Huge fan of THE Ohio State University)
 
