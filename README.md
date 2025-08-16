@@ -4,7 +4,7 @@
 
 👟 I work for Nike, Inc. as a Lead, Marketplace & Shopper Insights, supporting the Jordan Brand
 
-🎓 Graduate of #2 ranked Data Science program in the nation 2025 (Fortune) | M.S Business Analytics & Data Science at Oklahoma State University and THE Ohio State University | BS Business Administration 
+🎓 Graduate of #2 ranked Data Science program in the nation 2025 (Fortune) | M.S Business Analytics & Data Science at Oklahoma State University | Undergraduate from THE Ohio State University | BS Business Administration 
 
 🏈 In my free time, I enjoy analyzing college football data! (Huge fan of THE Ohio State University)
 
